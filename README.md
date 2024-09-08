@@ -2,7 +2,7 @@
 Hi! I'm LoosaZ and I code sometimes.
 <br>
 Minecraft hobbyist, Discord clients enthusiast. | Cybersecurity student @ ESTG - P.Porto
-Check out my [website](https://looosaz.github.io/en/) for more info!
+Check out my [website](https://loosaz.com/en/) for more info!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LooosaZ&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
